@@ -1,0 +1,39 @@
+/*public style*/
+*{margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+
+.containar{
+    width: 80%;
+    margin:auto ;
+
+}
+h2{
+    margin: 3%;
+}
+
+.logo img{
+    width: 50%;
+}
+
+.Portfolio{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: auto;
+}
+.Portfolio-item{
+    float:left ;
+    width:30%;
+ padding: 10px;
+ box-shadow:  10px wheat;
+    margin: 1%;
+    background-color: #fff;
+
+}
+
+.Portfolio img{
+    display: block;
+width: 100%;
+}
